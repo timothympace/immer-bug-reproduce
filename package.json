@@ -1,0 +1,15 @@
+{
+  "name": "immer-bug-reproduce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-js-pure": "^3.6.5",
+    "immer": "^6.0.3"
+  }
+}
