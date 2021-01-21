@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "core-js-pure": "^3.6.5",
-    "immer": "^6.0.3"
+    "immer": "^8.0.1"
   }
 }
